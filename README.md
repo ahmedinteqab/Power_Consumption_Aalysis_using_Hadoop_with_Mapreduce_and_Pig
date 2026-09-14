@@ -1,13 +1,18 @@
-Household Electric Power Consumption Analysis
+# ⚡ Household Electric Power Consumption Analysis
 
-Download the Individual Household Electric Power Consumption dataset from https://archive.ics.uci.edu/dataset/235/individual%2Bhousehold%2Belectric%2Bpower%2Bconsumption and place household_power_consumption.csv in data/.
+> A Big Data project for analyzing large-scale household electricity consumption using **Hadoop MapReduce** and **Apache Pig**.
 
-Project layout
-MapReduce/build/ - Java MapReduce all classes and jar file
-MapReduce/src/ - Java MapReduce source code
-MapReduce/output/ - MapReduce results
-PigAnalysis/scripts/ - Pig scripts
-PigAnalysis/output/ - Pig results
-docs/ - final report
-data/ - UCI CSV file, excluded from Git
-Report - PDF format
+---
+
+## 📊 Dataset
+
+The project uses the **Individual Household Electric Power Consumption** dataset from the **UCI Machine Learning Repository**.
+
+🔗 **Dataset:**  
+https://archive.ics.uci.edu/dataset/235/individual%2Bhousehold%2Belectric%2Bpower%2Bconsumption
+
+- 📌 **Records:** 2,075,259
+- 📌 **Features:** 9
+- 📌 **Sampling Rate:** 1 minute
+- 📌 **Time Period:** December 2006 – November 2010
+- 📌 **Dataset Type:** Multivariate Time-Series
