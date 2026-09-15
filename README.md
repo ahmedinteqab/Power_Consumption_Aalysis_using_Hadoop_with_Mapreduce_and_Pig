@@ -36,7 +36,7 @@ Calculate the total energy consumption using the available power and sub-meterin
 
 Find the 10 records with the highest Global_active_power.
 
-2. Top 10 Voltage Values
+2. Maximum Voltage Values
 
 Find the 10 records with the highest Voltage values.
 
